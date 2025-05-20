@@ -1,3 +1,6 @@
+# DAA-Design-and-Analysis-of-Algorithm
+Here i am posting DAA practice set.
+
 Design and Analysis of Algorithms – Practice Questions
 This repository contains a curated collection of Design and Analysis of Algorithms (DAA) practice problems along with their implementations, explanations, and solutions. It is aimed at helping students and professionals strengthen their understanding of algorithm design, time complexity, and efficient problem-solving techniques.
 
@@ -32,5 +35,4 @@ NP-completeness (theory)
  Languages Used:
 Java 
 
-# DAA-Design-and-Analysis-of-Algorithm
-Here i am posting DAA practice set. 
+
