@@ -33,6 +33,4 @@ Backtracking
 NP-completeness (theory)
 
  Languages Used:
-Java 
-
-
+Java
